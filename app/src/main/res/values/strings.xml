@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RakutenPhotosApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="photo">photo</string>
+    <string name="id">id</string>
+    <string name="owner">owner</string>
+    <string name="secret">secret</string>
+    <string name="server">server</string>
+    <string name="farm">farm</string>
+    <string name="title">title</string>
+    <string name="is_public">false</string>
+    <string name="is_friend">false</string>
+    <string name="is_family">false</string>
+    <string name="photo_id">photo_id: </string>
+    <string name="photo_owner">photo_owner: </string>
+    <string name="photo_secret">photo_secret: </string>
+    <string name="photo_server">photo_server: </string>
+    <string name="photo_farm">photo_farm: </string>
+    <string name="photo_title">photo_title: </string>
+    <string name="is_public_text">is_public: </string>
+    <string name="is_friend_text">is_friend: </string>
+    <string name="is_family_text">is_family: </string>
+    <string name="main_title">Title</string>
+    <string name="quick_return_text">QuickReturn</string>
+</resources>
